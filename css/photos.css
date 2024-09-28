@@ -1,0 +1,18 @@
+img {
+  height: 10%;
+  width: 30%;
+  /* margin: 10px; */
+  margin: 1.35%;
+} 
+
+nav {
+  text-transform: uppercase;
+  border-bottom: 2px solid #f1f1f1f1;
+  width: 30%;
+  margin-left: 1.35%;
+  padding: 20px 0;
+  font-family:Roboto ;
+  font-weight: bold;
+  font-size: 1.5em;
+
+}
